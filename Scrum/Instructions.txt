@@ -1,0 +1,16 @@
+Scrum Activities & Instructions on GitHub folder structureYou should keep a record of your scrum activities in your GitHub repository in the followingformat.
+First, you should create a folder for scrum activities of your project. Then, for each sprint createa subfolder (sprint-NUMBER).
+In each sprint folder, there should be folders for each of dailyscrum, sprint retrospective and refinement activities.
+
+In each daily scrum you should answer three questions and write the answer of each question ina separate file.
+
+1. What have you done since the last meeting?(inside sprint-NUMBER/daily-scrum-USERNAME-YY-MM-DD/what-ihave-done.md)
+2. What will you do?(inside sprint-NUMBER/daily-scrum-USERNAME-YY-MM-DD/what-iwill-done.md)
+3. Did you face any difficulties? Why? (inside sprint-NUMBER/daily-scrum-USERNAME-YY-MM-DD/problems-faced.md)
+
+In each sprint retrospective you should answer three questions and write the answers of eachquestion in a separate file.
+1. What are the three things that went well? (inside sprint-NUMBER/team-retrospective/what-went-well.md)
+2. What are the three things that went wrong?(inside sprint-NUMBER/team-retrospective/what-needs-improvement.md)
+3. Does the previous issues that needed improvements addressed?(inside sprint-NUMBER/team-retrospective/what-was-addressed.md)
+
+For refinement meetingsCreate just one folder and write the dates that you had refinement meetings.(inside sprint-NUMBER/refinements.md)
